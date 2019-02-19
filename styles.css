@@ -1,0 +1,46 @@
+body {
+    text-align:center;
+    background-color: #9da3c6;
+    font-family: 'Ubuntu', sans-serif;
+    color: white;
+}
+
+input {
+    border: none;
+    width: 400px;
+    padding: 10px;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 24px;
+}
+
+h1 {
+    font-size: 48px;
+    padding: 10px;
+}
+
+.padding {
+   padding: 10px; 
+}
+
+.loading {
+    display: flex;
+    justify-content: space-between;
+}
+
+.square {
+    height: 50px;
+    width: 50px;
+    background-color: #c6b99d;
+}
+
+.empty {
+    padding-top: 100px;
+}
+.space {
+    width: 500px;
+}
+
+.error {
+    opacity: 0;
+}
+
