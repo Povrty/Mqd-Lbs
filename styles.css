@@ -44,3 +44,19 @@ h1 {
     opacity: 0;
 }
 
+.error2 {
+    opacity: 0;
+}
+
+.error3 {
+    opacity: 0;
+}
+
+.font {
+    font-size: 32px;
+}
+
+span {
+    color: black;
+}
+
